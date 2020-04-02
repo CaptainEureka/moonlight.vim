@@ -1,3 +1,6 @@
+## NOTE:
+This is a work in progress attempt to port atomiks wonderful [moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) to the (best) text editer vim/neovim. As far as I know nobody has tried to do this yet. I'm starting out from `drewtemplemeyers` `palenight.vim` since the two colorschemes are quite similar.
+
 ![palenight.vim][screenshot]
 
 A dark color scheme for Vim/Neovim based off the [Material Pale Night][materialLink] color scheme. Much of the work is based on the lovely [onedark.vim][onedark] color scheme.
